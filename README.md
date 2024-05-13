@@ -25,12 +25,10 @@ To run puRED locally, follow these steps.
   ```
 
 5. Install the required dependencies.
-   
-6. Move the `app.py` file, `templates` folder, and `static` folder to the virtual environment created.
 
-7. Run the Flask application.
+6. Run the Flask application.
 
-8. Access the application in your web browser at `http://localhost:5000`.
+7. Access the application in your web browser at `http://localhost:5000`.
 
 ## Features
 
