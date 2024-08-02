@@ -25,7 +25,7 @@ To run puRED locally, follow these steps.
   ```
 
 5. Install the required dependencies.
-
+   
 6. Run the Flask application.
 
 7. Access the application in your web browser at `http://localhost:5000`.
